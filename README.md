@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Group Project & Branch Strategy
+## Group Project & Branch Strategy
 
 This repository adheres to the Git collaboration guidelines:
 * `main`: Production-ready, stable codebase.
@@ -23,5 +23,6 @@ This repository adheres to the Git collaboration guidelines:
 
 ---
 
-## 🚀 Team Members & Contributions
+##  Team Members & Contributions
 * **Denis Wawomola** (`@eldeno-pro` - `2400711902@mubs.ac.ug`) - Project Lead & Core Architecture
+

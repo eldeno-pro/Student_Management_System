@@ -115,3 +115,4 @@ class DatabaseRelationshipsTest extends TestCase
         ]);
     }
 }
+

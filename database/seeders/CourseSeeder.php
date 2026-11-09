@@ -73,3 +73,4 @@ class CourseSeeder extends Seeder
         }
     }
 }
+

@@ -159,3 +159,4 @@ class ApplicationFunctionalityAndViewsTest extends TestCase
         $studentResponse->assertDontSee('Admin Dashboard');
     }
 }
+

@@ -44,3 +44,4 @@ class CourseRegistrationSeeder extends Seeder
         }
     }
 }
+

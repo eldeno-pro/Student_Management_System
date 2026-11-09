@@ -148,3 +148,4 @@ class CourseRegistrationController extends Controller
         }
     }
 }
+

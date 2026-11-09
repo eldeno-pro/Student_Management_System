@@ -112,3 +112,4 @@ class AuthenticationAndRolesTest extends TestCase
         $this->assertTrue(Gate::forUser($adminUser)->allows('view', $student2));
     }
 }
+

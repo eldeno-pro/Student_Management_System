@@ -79,3 +79,4 @@
 | **Explanation of database relationships** | 3 | Explain Eloquent pivot tables, `belongsToMany` between Students and Courses, `hasMany` between Lecturer and Courses, and composite unique keys. |
 | **Explanation of auth, roles and permissions** | 2 | Explain Spatie permission integration, role assignment during seeding, route middleware aliases in `bootstrap/app.php`, and policy checks. |
 | **Technical questions & code understanding** | 2 | Explain MVC architecture, CSRF protection, Eloquent eager loading (`withCount`, `with`), form request validation, and test automation. |
+

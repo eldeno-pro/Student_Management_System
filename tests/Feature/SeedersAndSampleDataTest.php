@@ -59,3 +59,4 @@ class SeedersAndSampleDataTest extends TestCase
         $this->assertEquals($initialRegistrationCount, CourseRegistration::count(), 'Registration count should not increase on re-seed');
     }
 }
+
